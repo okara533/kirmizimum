@@ -14,3 +14,17 @@ Not: pairlist.csv ile datalar uyumsuz. githuba bütün dataları ekleyemediğim 
 ![Image description](https://cdn-images-1.medium.com/max/1100/1*ozybFIrLBxw5jtQLFU_nrg.png)
 
 Bu grafik 604 ikili için 510 gün sonunda pozitif getiri sayısı ile negatif getiri sayılarını kendi içinde kıyaslamasını gösteriyor. Başarı oranına baktığımızda sadece bu stratejinin kullanılmasının yetmeyeceği gözüküyor. Ancak Strateji 1'in hem HODL hem de Strateji 2'den PnL başarısı olarak daha başarılı olduğunu görüyoruz. Örnek olarak Strateji 1 604 ikilide uyguladığınızda 189 pozitif,415'i negatif getiri ile kapatmış. Peki toplamda endeks ne kadar getiri elde etti?
+
+![Image description](https://cdn-images-1.medium.com/max/1100/1*E54skB_EltxJmEpHXbftDg.png)
+
+100 endeks ile başlattığımızda stratejileri, Strateji 1, 108.85 ile pozitif getiri veren tek strateji. Ancak girilen risk ile bir seneden uzun sürede baktığımızda kesinlikle tatmin edici bir getiri değil. Ancak bu yazının amacı kapanış mumunun tersi yönde mi yoksa aynı yönde mi daha çok hareket yaptığını incelemek.
+
+
+![Image description](https://cdn-images-1.medium.com/max/1100/1*GYmNrqX7VkJ96RhW6-otKA.png)
+
+İkili bazlı Strateji 1 ve 2'nin bir biri ile kıyaslamasına baktığımızda Strateji 1'in 404 ikili için Strateji 2'den daha fazla başarılı olduğunu görüyoruz. Bu ciddi bir oran.
+Sonuç olarak kripto paraların günlükte daha çok tersi yönde hareket ettiğini söyleyebiliriz. Son olarak düşüş sonrası çıkışların mı yoksa çıkış sonrası düşüşlerin mi daha çok ve güyük olduğuna bakalım.
+
+![Image description](https://cdn-images-1.medium.com/max/1100/1*VWhyHWragwjU-Lv27aLyTA.png)
+
+Bu sene yükseliş sonrası düşüşlerin yılı oldu diyebiliriz. Bu yazıda genel olarak yükselen veya düşen trendde tahmin ettiğiniz tarafın tersi hareket sonrası işleme girmenin daha karlı olabileceğini göstermiş olduk.
