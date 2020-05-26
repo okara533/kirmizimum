@@ -1,7 +1,12 @@
 pair_df=pd.read_csv("data/pairlist.csv",header=None)[1]
 pairs=[]
-for pair in range(len(pair_df)):
-    pairs.append(pair_df[pair])
+try:
+    for pair in range(len(pair_df)):
+        pairs.append(pair_df[pair])
+        print("{} ikilisi indirildi.".format(pair_df.iloc[pair]))
+except:
+     print("{} ikilisinin datası olmadığı için indirilemedi.".format(pair_df.iloc[pair]))
+ 
 #STOPSUZ GETİRİ
 result_list=[]
 count=0
