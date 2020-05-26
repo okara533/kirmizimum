@@ -1,4 +1,4 @@
-pair_df=pd.read_csv("pairlist.csv",header=None)[1]
+pair_df=pd.read_csv("data/pairlist.csv",header=None)[1]
 pairs=[]
 for pair in range(len(pair_df)):
     pairs.append(pair_df[pair])
@@ -7,7 +7,7 @@ result_list=[]
 count=0
 for a in pairs:  
     result={}
-    df_raw=pd.read_csv(a+".csv")
+    df_raw=pd.read_csv("data/"+a+".csv")
     if len(df_raw)>100:
         df=df_raw["close"].pct_change()
         df.index=df_raw["timestamp"]
@@ -35,10 +35,4 @@ for a in pairs:
         result_list.append(result)
 df_result=pd.DataFrame(result_list) 
 df_result["success"]=df_result["strategy1"]-df_result["strategy2"]
-print("strateji1 başarı :{}".format((df_result["strategy1"]>100).sum()))
-print("strateji1 başarısızlık  :{}".format((df_result["strategy1"]<100).sum()))
-print("strateji2 başarı :{}".format((df_result["strategy2"]>100).sum()))
-print("strateji2 başarısızlık  :{}".format((df_result["strategy2"]<100).sum()))
-print("HODL başarı :{}".format((df_result["HODL"]>100).sum()))
-print("HODL başarısızlık :{}".format((df_result["HODL"]<100).sum()))
-print("****ortalamalar****\n"+str(df_result.mean()))
+print("strateji1 başa
