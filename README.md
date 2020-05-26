@@ -28,3 +28,6 @@ Sonuç olarak kripto paraların günlükte daha çok tersi yönde hareket ettiğ
 ![Image description](https://cdn-images-1.medium.com/max/1100/1*VWhyHWragwjU-Lv27aLyTA.png)
 
 Bu sene yükseliş sonrası düşüşlerin yılı oldu diyebiliriz. Bu yazıda genel olarak yükselen veya düşen trendde tahmin ettiğiniz tarafın tersi hareket sonrası işleme girmenin daha karlı olabileceğini göstermiş olduk.
+
+
+medium.com/chizgiden
