@@ -10,3 +10,7 @@ HODL: İlk açılış günü ile al elinde tut.
 En az100 gün üzeri kapanış verisi olan 604 ikilinin 1 Ocak 2019'dan 24 Mayıs 2020 arasındaki verileri ile toplamda 136,863 kez trade ederek testi yaptım.
 
 Not: pairlist.csv ile datalar uyumsuz. githuba bütün dataları ekleyemediğim için try except ile bu ilgili sorunu çözdüm. isteyen dataları bulup algoritmayı ona göre çalıştırabilir.
+
+![Image description](https://cdn-images-1.medium.com/max/1100/1*ozybFIrLBxw5jtQLFU_nrg.png)
+
+Bu grafik 604 ikili için 510 gün sonunda pozitif getiri sayısı ile negatif getiri sayılarını kendi içinde kıyaslamasını gösteriyor. Başarı oranına baktığımızda sadece bu stratejinin kullanılmasının yetmeyeceği gözüküyor. Ancak Strateji 1'in hem HODL hem de Strateji 2'den PnL başarısı olarak daha başarılı olduğunu görüyoruz. Örnek olarak Strateji 1 604 ikilide uyguladığınızda 189 pozitif,415'i negatif getiri ile kapatmış. Peki toplamda endeks ne kadar getiri elde etti?
