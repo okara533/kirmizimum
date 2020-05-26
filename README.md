@@ -9,3 +9,4 @@ Strateji2:İkili dün pozitif kapandı ise al, gün sonunda pozisyonu kapat veya
 HODL: İlk açılış günü ile al elinde tut.
 En az100 gün üzeri kapanış verisi olan 604 ikilinin 1 Ocak 2019'dan 24 Mayıs 2020 arasındaki verileri ile toplamda 136,863 kez trade ederek testi yaptım.
 
+Not: pairlist.csv ile datalar uyumsuz. githuba bütün dataları ekleyemediğim için try except ile bu ilgili sorunu çözdüm. isteyen dataları bulup algoritmayı ona göre çalıştırabilir.
